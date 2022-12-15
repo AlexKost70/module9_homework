@@ -1,0 +1,12 @@
+div {
+    margin-top: 10px;
+}
+
+.error {
+    display: none;
+}
+
+.images img {
+    width: 250px;
+    height: 250px;
+}

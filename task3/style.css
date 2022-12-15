@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+
+.images {
+    margin-top: 20px;
+}
+
+.images img {
+    width: 250px;
+    height: 250px;
+}
